@@ -1,8 +1,10 @@
 **STEPIK.org**
 
 ##Алгоритмы: теория и практика. Методы
-https://stepik.org/course/217
 
+
+https://stepik.org/course/217
+---
 
 **Описание курса**
 
